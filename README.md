@@ -1,1 +1,1 @@
-https://github.com/bkabtyb/ono-tebe-nado_fd
+https://github.com/bkabtyb/ono-tebe-nado-fd
